@@ -14,6 +14,7 @@ A powerful web application for generating professional-looking thumbnails from v
   - Add vibrancy
   - Apply cinematic effects
 - **One-Click Download**: Download your enhanced thumbnail with a single click
+- **No External API Dependencies**: All image processing is done locally with no API keys required
 - **Cross-Origin Isolation**: Properly configured for FFmpeg.wasm requirements
 - **Responsive Design**: Works on desktop and mobile devices
 
@@ -34,7 +35,7 @@ A powerful web application for generating professional-looking thumbnails from v
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/video-thumbnail-generator.git
+   git clone https://github.com/P3st83/video-thumbnail-generator.git
    cd video-thumbnail-generator
    ```
 
